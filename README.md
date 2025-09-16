@@ -31,3 +31,7 @@ Excel workbooks with structured datasets and analysis
 Power BI reports showcasing trends and KPIs
 
 Documentation and summary insights
+
+![Bank Analysis in Excel Dashboard](C:\Users\NARUTO\Desktop\Data Analyst\Project\Bank Analytics\Bank Analysis Excel Dashboard)
+
+
