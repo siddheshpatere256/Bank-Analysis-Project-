@@ -4,34 +4,48 @@ This repository contains my Bank Analysis Project, where I explored and analyzed
 
 📂 Project Highlights
 
-✅ Data cleaning, transformation, and analysis using Excel
+- Data cleaning, transformation, and analysis using Excel
 
-✅ Interactive dashboards and reports created with Power BI
+- Interactive dashboards and reports created with Power BI
 
-✅ Key metrics include customer demographics, loan performance, credit scores, and transaction trends
+- Key metrics include customer demographics, loan performance, credit scores, and transaction trends
 
-✅ Use of charts, slicers, and dynamic visuals to enhance decision-making
+- Use of charts, slicers, and dynamic visuals to enhance decision-making
 
-✅ Insights aimed at improving customer segmentation and identifying growth opportunities
+- Insights aimed at improving customer segmentation and identifying growth opportunities
+  
+-  Collected , cleaned and analyzed bank customer and loan datasets using
+   MS Excel (Power Query , Pivot Tables) For foundational data preparation
+
+- Build interactive dashboard with Power BI , Excel and MySQL to analyze 160k
+  financial records (loans, debit, credit)
+
+- Conducted trend analysis of loan disbursements over time to identify
+  seasonal lending patterns .
+
+- Explored trends in loan amounts , approval rates , income groups , and
+  branch performance .
+
+- Used visuals like bar charts , KPI cards , line graph , and slicers to create
+  interactive user – friendly reports .
+
 
 🛠 Tools Used
 
-Microsoft Excel – data manipulation, pivot tables, charts
+- Microsoft Excel – data manipulation, pivot tables, charts , dashboard
 
-Power BI – interactive dashboards, data modeling, DAX calculations
+- Power BI – interactive dashboards, data modeling, DAX calculations
 
 🎯 Objective
 
-To provide actionable insights from banking data that can support customer targeting, risk assessment, and performance monitoring.
+- To provide actionable insights from banking data that can support customer targeting, risk assessment, and performance monitoring.
 
-📁 What's Inside
 
-Excel workbooks with structured datasets and analysis
+## Excel Dashboard Image -
 
-Power BI reports showcasing trends and KPIs
 
-Documentation and summary insights
 
-![Bank Analysis in Excel Dashboard](C:\Users\NARUTO\Desktop\Data Analyst\Project\Bank Analytics\Bank Analysis Excel Dashboard)
+
+
 
 
